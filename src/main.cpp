@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main(int argc, const char** argv) {
-    std::cout << "A" <<std::endl;
+    std::cout << "opengl" <<std::endl;
 
     return 0;
 
